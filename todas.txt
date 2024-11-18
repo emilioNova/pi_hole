@@ -80,3 +80,4 @@
 ads.youtube.com 
 s.youtube.com 
 www.youtube-nocookie.com
+googlevideo.com
